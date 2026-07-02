@@ -20,9 +20,9 @@ const array2 = ["Something is preventing you from using power...", "You hear a v
 
 let bgst = 0
 , tgl = -1
-, counter = zero // what should I even name this other than "counter"?
+, counter = zero // what should I name this other than "counter"?
 , prestigecounter = zero // same here
-, powercounter = zero // I have no ideas
+, powercounter = zero // 
 , cgen0 = zero // counter/s
 , cost1 = one // first price of upgrade 1
 , cost2 = new Decimal(10) // first price of upgrade 2
